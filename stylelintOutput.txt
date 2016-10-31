@@ -1,52 +1,8 @@
 
 src/components/App/Img.js
- 13:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
+  7:3  ×  Expected empty line before nested rule       rule-nested-empty-line-before    
+ 12:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
 
 src/components/App/Intro.js
  5:3  ×  Unknown word   CssSyntaxError
-
-src/fixtures/hard/indentation.js
- 14:1   ×  Expected empty line before non-nested rule                                                     rule-non-nested-empty-line-before    
- 24:12  ×  Expected single space after "{" of a single-line block (block-opening-backtick-space-after)    block-opening-brace-space-after      
- 24:23  ×  Expected single space before "}" of a single-line block (block-closing-backtick-space-before)  block-closing-brace-space-before     
- 24:24  ×  Unexpected empty line before closing backtick                                                  block-closing-brace-empty-line-before
-
-src/fixtures/interpolations/valid.js
- 42:3  ×  Unknown word   CssSyntaxError
-
-src/fixtures/simple/helpers.js
- 10:1  ×  Expected empty line before at-rule           at-rule-empty-line-before        
- 14:3  ×  Expected empty line before nested rule       rule-nested-empty-line-before    
- 19:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
-
-src/fixtures/simple/imports.js
-  5:1  ×  Expected indentation of 2 spaces             indentation                      
-  8:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
-  9:1  ×  Expected indentation of 2 spaces             indentation                      
- 12:1  ×  Expected empty line before at-rule           at-rule-empty-line-before        
- 13:1  ×  Expected indentation of 2 spaces             indentation                      
- 14:2  ×  Expected indentation of 4 spaces             indentation                      
- 15:1  ×  Expected indentation of 2 spaces             indentation                      
- 16:1  ×  Expected indentation of 2 spaces             indentation                      
- 16:1  ×  Expected empty line before nested rule       rule-nested-empty-line-before    
- 17:2  ×  Expected indentation of 4 spaces             indentation                      
- 18:1  ×  Expected indentation of 2 spaces             indentation                      
- 21:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 22:1  ×  Expected indentation of 2 spaces             indentation                      
- 23:2  ×  Expected indentation of 4 spaces             indentation                      
- 24:1  ×  Expected indentation of 2 spaces             indentation                      
-
-src/fixtures/simple/nesting.js
- 11:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 13:3  ×  Expected empty line before nested rule       rule-nested-empty-line-before    
- 19:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 21:3  ×  Expected empty line before nested rule       rule-nested-empty-line-before    
- 33:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
-
-src/fixtures/simple/valid.js
-  8:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 13:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 17:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 22:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
- 26:1  ×  Expected empty line before non-nested rule   rule-non-nested-empty-line-before
 
